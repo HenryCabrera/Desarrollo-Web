@@ -5,6 +5,6 @@ Este proyecto es una página web desarrollada en HTML que promociona una excursi
 ## Sitio Web Publicado
 https://sitioturistico.netlify.app/
 
-## 👤 Desarrollado por:
+## Desarrollado por:
 Nombre: Henry Cabrera  
 Carnet: 9490-20-6611
