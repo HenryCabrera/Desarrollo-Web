@@ -8,6 +8,7 @@ https://sitiowebturistico.netlify.app/
 # Actualización:
 
 ## Mejoras en la estructura HTML:
+
 -Se reorganizó el contenido con etiquetas semánticas como <header>, <main>, <section>, <nav>, <figure> y <footer> para mejorar la legibilidad y el orden del código.
 -Se optimizó la accesibilidad agregando descripciones alternativas en imágenes y roles/atributos apropiados como aria-labelledby y scope.
 
@@ -23,4 +24,5 @@ https://estilizacionsitiowebturistico.netlify.app/
 ## Desarrollado por:
 Nombre: Henry Cabrera  
 Carnet: 9490-20-6611
+
 
