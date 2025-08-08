@@ -8,6 +8,3 @@ https://sitiowebturistico.netlify.app/
 ## Desarrollado por:
 Nombre: Henry Cabrera  
 Carnet: 9490-20-6611
-
-
-
